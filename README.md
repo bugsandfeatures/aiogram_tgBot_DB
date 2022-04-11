@@ -1,1 +1,1 @@
-# aiogram_tgBot_lesson2_DB
+# aiogram_tgBot_DB
